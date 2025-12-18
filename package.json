@@ -1,9 +1,0 @@
-{
-  "name": "skycast-weather",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "dev": "node original_server.js",
-    "start": "node original_server.js"
-  }
-}
